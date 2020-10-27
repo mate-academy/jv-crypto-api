@@ -3,7 +3,7 @@
 API doc: https://min-api.cryptocompare.com/documentation
 
 1. Register on the site and get the API KEY (or use this e347a7d01149ab62ddf9b0f3a879df679d3c3bb440b7593de4b45097dad4c088)
-1. Get a list of the top 10 currencies at https://min-api.cryptocompare.com/data/top/totalvolfull?limit=10&tsym=BTC
+1. Get a list of the top 10 currencies at https://min-api.cryptocompare.com/documentation?key=Toplists&cat=TopTotalVolumeEndpointFull
 1. Provide information on the bids and asks of all 10 currencies to the bitcoin (BTC) in the format 
 (data can be obtained here https://min-api.cryptocompare.com/documentation?key=Orderbook&cat=obL1TopEndpoint)
 ```text
